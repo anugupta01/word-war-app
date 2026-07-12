@@ -1,7 +1,7 @@
 # Word War - Jumble Word Game
 
 This two player game is based on the Snatch Word Game.
-Try it out on [Vercel](https://word-war.vercel.app).
+Try it out on [Vercel](https://word-war-app-psi.vercel.app/).
 
 ![demo](demos/word%20war.gif)
 
